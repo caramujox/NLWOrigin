@@ -1,2 +1,43 @@
 # NLWOrigin
+
 Desenferrujando - NLW Origin - Trilha RocketSeat
+
+<details>
+<summary> VSCODE - settings.json usado nesse repo </summary>
+
+```json
+{
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+  // formatter
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true
+}
+```
+
+</details>
