@@ -1,7 +1,7 @@
 # NLWOrigin
 
 Desenferrujando - NLW Origin - Trilha RocketSeat
-
+https://nextlevelweek.com/episodios/origin/aula-2/edicao/8
 <details>
 <summary> VSCODE - settings.json usado nesse repo </summary>
 
